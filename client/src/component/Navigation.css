@@ -1,0 +1,28 @@
+.navbar{
+     background-color: #DDF7E3;
+}
+.navbar-brand{
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.navbar-nav, .nav-link{
+    font-family: 'Comfortaa', cursive;
+    font-size: 1rem;
+    color: #777
+}
+.footer{
+    position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #5D9C59;
+}
+.footer-p{
+    margin-top: 25px;
+	font-size: 17px;
+   color: #fff;
+}
